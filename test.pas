@@ -1,3 +1,5 @@
+var s:string;
 begin
-write('Hello world');
+readln(s);
+write('s');
 end.
