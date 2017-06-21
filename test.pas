@@ -1,3 +1,4 @@
+//для пункта 3,3
 var s:string;
 begin
 readln(s);
